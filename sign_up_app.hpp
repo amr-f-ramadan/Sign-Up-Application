@@ -1,5 +1,5 @@
-#ifndef SignUpApp_HPP
-#define SignUpApp_HPP
+#ifndef SIGN_UP_APP_HPP
+#define SIGN_UP_APP_HPP
 
 #include <string>
 #include <vector>
@@ -26,4 +26,4 @@ public:
     ~SignUpApp();
 };
 
-#endif
+#endif 
